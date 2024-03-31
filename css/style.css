@@ -1,0 +1,21 @@
+/* section{
+    width: 5px;
+    height: 5px;
+    margin: auto;
+}
+.title , .cards{
+    display: none;
+} */
+
+h3,span{
+    transition: 0.5s;
+}
+h3:hover + span  {
+    color: white; /* Change to your desired color */
+}
+h3:hover  {
+    color: white; /* Change to your desired color */
+}
+.bodybg{
+    background-color: #D5E1EF;
+}
